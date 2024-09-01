@@ -11,7 +11,7 @@ thus indicating the efficiency difference .
 ## Steps
 1. **Clone the repository:**
  ```bash
-    https://github.com/riddhi5566/MultiThreadedWebServer
+    https://github.com/riddhi5566/MultiThreadedWebserver
 ````
 2. Set up Jmeter 
 3. Inside Jmeter
